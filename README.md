@@ -1,7 +1,7 @@
 # DES-DNA
 #**DNA-Triple DES Encryption Algorithm**
 ## Project Overview
-This project, developed as part of a university course, introduces an innovative encryption algorithm that combines the Data Encryption Standard (DES) with DNA computing and integrates Triple DES and Huffman compression to enhance data security.
+This project, developed as part of SASTRA university course(MINI-PROJECT CSE300), introduces an innovative encryption algorithm that combines the Data Encryption Standard (DES) with DNA computing and integrates Triple DES and Huffman compression to enhance data security.
 
 ## Key Features
 ### DNA-Based Encryption: 
